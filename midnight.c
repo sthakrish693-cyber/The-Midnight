@@ -1,6 +1,7 @@
 #include<stdio.h>
-int main()
+int main ()
 {
-    printf("JENIE kkk");
-    return 0;
+    int status,IQ,
 }
+
+    
