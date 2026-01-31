@@ -2,7 +2,9 @@
 #include<conio.h>
 int main()
 {
-    int i,n;
+    int i,n,play_again;
+    switch(play_again==1)
+    {case 1:
     
     printf("-------------------------------\n");
     printf("It's 11:47 PM on a Sunday night.\n");
@@ -77,6 +79,8 @@ printf("          /              / \n");
 
 printf("\"Installation Successful. Welcome to MidnightSoft.\"");
 getchar();
+
+}
     return 0;
 }
 
